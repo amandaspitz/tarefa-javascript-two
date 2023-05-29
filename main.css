@@ -1,0 +1,16 @@
+html,body {
+    font-family: 'Lato', sans-serif;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.botLogin {
+    font-weight: bold;
+}
+
